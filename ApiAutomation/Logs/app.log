@@ -1,0 +1,5 @@
+[INFO ] 2024-03-10 21:30:45.359 [TestNG-test=Pet Store Automation Test-1] UserModuleTestCases - ********************Creating User*************************
+[INFO ] 2024-03-10 21:30:48.041 [TestNG-test=Pet Store Automation Test-1] UserModuleTestCases - ********************Reading User*************************
+[INFO ] 2024-03-10 21:30:49.131 [TestNG-test=Pet Store Automation Test-1] UserModuleTestCases - ********************Updating User Name*************************
+[INFO ] 2024-03-10 21:30:50.248 [TestNG-test=Pet Store Automation Test-1] UserModuleTestCases - ********************Printing Updated User Details*************************
+[INFO ] 2024-03-10 21:30:51.360 [TestNG-test=Pet Store Automation Test-1] UserModuleTestCases - ********************Deleting User*************************
